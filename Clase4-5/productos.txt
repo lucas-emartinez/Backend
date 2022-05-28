@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Pantalon",
+    "price": 500,
+    "id": 1
+  },
+  {
+    "title": "Pelota de Futbol Jabulani",
+    "price": 240,
+    "id": 2
+  },
+  {
+    "title": "Remera AC DC",
+    "price": 3535,
+    "id": 3
+  },
+  {
+    "title": "Television",
+    "price": 50000,
+    "id": 4
+  }
+]
